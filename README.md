@@ -21,7 +21,7 @@
 - 👯 I'm looking to collaborate on projects with other programmers who are interested in developing web applications.
 
  **My projects:** 
-> :books:  [Kanban Board](https://kanban-task-frontend.vercel.app/)
+> :books:  **[Kanban Board](https://kanban-task-frontend.vercel.app/)**
 
 <!--
 **alexandr2075/alexandr2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
